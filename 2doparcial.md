@@ -1,5 +1,9 @@
 9. Que se entiende por "dato personal"?
 
+    - Información susceptible de ser atribuida a una persona\n -  Información de
+      cualquier tipo referida a personas humanas determinadas o determinables,
+      inclusive los datos biométricos.
+
 10. Al final de cada enunciado coloque una L si corresponde al princio de
     licitud, una F si corresponde al de finalidad, una P si corresponde al de
     pertenecia y una E si corresponde al de exactitud
@@ -217,7 +221,21 @@ __servicios__ informaticos.
 20. Cuales considera usted que son los puntos mas importantes a tener en cuenta
     en la estructura de un contrato de licencia de uso de software adaptado?
 
-    - wtf???
+    Partes del contrato:
+    - Glosario / Definiciones técnicas
+    - Objeto
+    - Modalidad de entrega
+    - Modificaciones    X
+    - Licencia          X
+    - Precio
+    - Derechos y Obligaciones de las partes
+    - Garantias         X
+    - Indemnidad
+    - Confidencialidad  X
+    - Datos personales
+    - Divisibilidad del contrato
+    - Notificaciones
+
 
 21. Como se clasifica el contrato de mantenimiento segun el tiempo en que se
     preste? Explique.
@@ -240,8 +258,7 @@ proveedor una obligación de garantía que consiste en __mantenimiento__
     informáticos.
 
     - Alta complejidad del objeto.
-    - Alto nivel de concentración del mercado internacional de tecnología
-      informática.
+    - Desigualdad entre el proveedor y el usuario/cliente
 
 
 25. En que tipo de procesos existen necesariamente dos partes?
@@ -279,3 +296,21 @@ Tipos de pruebas:
 - De testigos
 - Reconocimiento Judicial
 - Pericial.
+
+
+Objetivos de la profesion:
+--------------------------
+
+- Credibilidad: que la informacion sea creible
+- Profesionalidad: serie de actividades especializadas
+- Confianza: profesional digno de credito y responsable
+- Calidad de serviscios: satisfacer plenamente las necesidades del cliente
+- Confidencialidad: respetar el secreto profesional
+- Objetividad: analizar los problemas de acuerdo a la realidad y no intereses
+  propios.
+- Integridad: cumplir con rectitud sus deberes
+- Idoneidad Profesional: ejercer con cuidado, competencia y diligencia.
+  Actualizarse.
+- Solidaridad Profesional: Respetar y no privar a sus pares.
+- Responsabilidad: saber q hacer y decidir hacerlo.
+- Dignidad Profesional: comportamiento etico y moral
