@@ -206,25 +206,31 @@ __servicios__ informaticos.
 
 19. Disposiciones del Contrato sobre software. Al lado de cada enunciado
     coloque una V si es verdadero y una F si es falso
-- La entrega del codigo fuente nunca es obligatoria -> F
-- La documentacion debe contar con un manual del usuario -> V
-- El proveedor debe garantizar la proteccion al adquiriente contra posibles
-  reclamos de terceros. -> V
-- Se puede establecer que la aceptacion definitiva sea implicita (no escrita) -> V
+
+    - La entrega del codigo fuente nunca es obligatoria -> F
+    - La documentacion debe contar con un manual del usuario -> V
+    - El proveedor debe garantizar la proteccion al adquiriente contra posibles
+      reclamos de terceros. -> V
+    - Se puede establecer que la aceptacion definitiva sea implicita (no
+      escrita) -> V
 
 20. Cuales considera usted que son los puntos mas importantes a tener en cuenta
     en la estructura de un contrato de licencia de uso de software adaptado?
 
-21. Como se clasifica el contrato de mantenimiento segun el tiempo es que se
+    - wtf???
+
+21. Como se clasifica el contrato de mantenimiento segun el tiempo en que se
     preste? Explique.
-- Mantenimiento preventivo
-- Mantenimiento de emergencia
+
+    - Mantenimiento preventivo - te pago por las dudas
+    - Mantenimiento de emergencia - te llamo cuando te necesito
 
 22. Mencione por lo menos tres beneficios que presenta el contrato de
     outsourcing?
-- Liberacion de recursos financieros.
-- Beneficios fiscales.
-- Acceso a la mejor y mas moderna tecnologia.
+
+    - Liberacion de recursos financieros.
+    - Beneficios fiscales.
+    - Acceso a la mejor y mas moderna tecnologia.
 
 23. Complete:
 En los contratos informáticos con la aceptación definitiva nace la cabeza del
@@ -232,18 +238,44 @@ proveedor una obligación de garantía que consiste en __mantenimiento__
 
 24. Mencione por lo menos dos elementos esenciales de los contratos
     informáticos.
-- Alta complejidad del objeto.
-- Alto nivel de concentración del mercado internacional de tecnología
-  informática.
 
------------------------------------------------------------------------------
+    - Alta complejidad del objeto.
+    - Alto nivel de concentración del mercado internacional de tecnología
+      informática.
 
-No se si entran
----------------
 
-17. En que tipo de procesos existen necesariamente dos partes?
+25. En que tipo de procesos existen necesariamente dos partes?
 
-18. Enumere las etapas de un proceso judicial
+    - Conocimiento
+    - Ejecucion
 
-19. Mencione dos medios de prueba exclusivos del fuero penal
+26. Enumere las etapas de un proceso judicial
 
+    - Inicio (demanda) -> Presentación del conflicto ante el juez, es decir la
+      presentación de la demanda por parte del actor y la contestación de la
+      demanda por parte del demandado.
+    - Prueba. -> Este es el momento procesal en donde las partes usan todos los
+      medios e instrumentos permitidos por los códigos para intentar acreditar
+      la verdad de los hechos que invocan.
+    - Sentencia. Producida toda la prueba, la etapa siguiente es la que
+      corresponde al dictado de la sentencia, donde el juez resolverá sobre la
+      cuestión planteada, debiendo fundamentar su fallo.
+    - Recursos. A partir de la sentencia, se abre para las partes, si no han
+      quedado conformes con la decisión del juez, una etapa de recursos, que
+      deberán resolver las Cámaras de Apelación.
+
+27. Mencione dos medios de prueba exclusivos del fuero penal
+
+    - Intervencion de telefonos
+    - Intervencion de correspondencia
+    - Reconocimiento en rueda de personas
+
+Tipos de pruebas:
+-----------------
+
+- Documental
+- De informes
+- Confesional
+- De testigos
+- Reconocimiento Judicial
+- Pericial.
