@@ -1,8 +1,8 @@
 9. Que se entiende por "dato personal"?
 
-    - Información susceptible de ser atribuida a una persona\n -  Información de
-      cualquier tipo referida a personas humanas determinadas o determinables,
-      inclusive los datos biométricos.
+    - Información susceptible de ser atribuida a una persona
+    -  Información de cualquier tipo referida a personas humanas determinadas o
+       determinables, inclusive los datos biométricos.
 
 10. Al final de cada enunciado coloque una L si corresponde al princio de
     licitud, una F si corresponde al de finalidad, una P si corresponde al de
@@ -144,7 +144,7 @@
 
 11. Cual es la diferencia entre los bancos de datos publicos y privados?
 
-    - No existe.
+    - quien las gestiona
 
 13. Los datos referidos a la cuestiones raciales, aspectos vinculados con la
     salud o con la conducta sexual, entre otros, son considerados DATOS
